@@ -1,0 +1,1 @@
+Код сайта [priceguard.org](https://priceguard.org) - разработчика сервисов PriceGuard: [priceguard.ru](https://priceguard.ru)
